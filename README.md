@@ -14,8 +14,8 @@ pip install pillow
 
 ## Usage
 1. Download or clone the repository in your chosen directory.
-2. Create a new folder in the same directory and name it "input".
-3. Place all the images to be cropped in the "input" folder.
+2. Create a new folder in the master folder and name it "input".
+3. Place all the images to be cropped in the newly created folder "input".
 4. Run the script using:
     ```
     python image_auto_crop.py
